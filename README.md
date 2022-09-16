@@ -2,7 +2,7 @@
 ## Single Responsibility Principle Introduction
 This principle says that **_a class should have only one reason to change_**.
 
-In the `src/main/java/dev/rontran/corrections` package, I wrote the code that violates the principle.
+In the `src/main/java/dev/rontran/violations` package, I wrote the code that violates the principle.
 And in the `src/main/java/dev/rontran/corrections` package, I update the code to fix the violations.
 
 ## How to run a project
