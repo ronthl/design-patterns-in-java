@@ -23,3 +23,5 @@ Checkout my branches to see my code.
 * Dependency Inversion Principle:
 
   https://github.com/ronthl/design-patterns-in-java/tree/005/dependency-inversion-principle
+### Chapter 2 - Simple Factory Pattern
+Source code: https://github.com/ronthl/design-patterns-in-java/tree/006/simple-factory-pattern 
